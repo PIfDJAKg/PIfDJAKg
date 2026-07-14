@@ -3,7 +3,7 @@
 
 Skills: Python / GDScript / JS / HTML / CSS
 
-- 🔧 I’m currently working on Apple RUN 
+- 🔧 I'm currently working on personal projects.
 - 📰 I’m currently learning Godot 
 
 ### **My Skills**
